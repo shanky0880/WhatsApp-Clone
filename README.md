@@ -1,10 +1,9 @@
-# whatsapp
+# whatsapp clone on flutter
 
-A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+
 
 ![Untitled design](https://user-images.githubusercontent.com/57230069/236689559-a8ebb0bc-a6fa-4712-9cbf-02a7d4bd1db2.jpg)
 
